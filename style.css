@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+html {
+    scroll-behavior: smooth;
+  }
+
+main {
+    width: 65vw;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 50px;
+  }
+  
+header {
+    background-color: #6779ff;
+    height: 50px;   
+    
+  }
+
+body {
+    background: url(background2.jpeg);
+    background-size: 100px;
+}
+
+p {
+    font-family: Georgia;
+    font-size: medium;
+    color: rgb(19, 18, 18);
+    margin-left: auto;
+    text-align: center;
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: large;
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    font-family: Georgia;
+    font-size: large;
+    color: blue;
+    text-align: center;
+}
+
+nav {
+    
+    text-align: center;
+    justify-content: space-around;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #6779ff;
+    height: 60px; 
+    display: flex;
+    
+    
+}
